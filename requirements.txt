@@ -1,0 +1,7 @@
+langchain
+langchain-core
+langchain-aws
+langchain-community
+streamlit
+python-dotenv
+boto3
