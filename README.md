@@ -211,8 +211,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Your Name**
 - LinkedIn: [Harshit](https://www.linkedin.com/in/iamharshitagarwal/)
+- Email : [harshituohyd@gmail.com](harshituohyd@gmail.com)
 
 ---
 
